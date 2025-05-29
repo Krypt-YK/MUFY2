@@ -1,0 +1,26 @@
+{
+    "restaurants": {
+        "Yo Mama's Kitchen": {
+            "rating_sum": 7,
+            "rating_count": 2
+        },
+        "Darren's Skibidi Restaurant": {
+            "rating_sum": 1,
+            "rating_count": 1
+        }
+    },
+    "drivers": {
+        "kaydend2": {
+            "rating_sum": 7,
+            "rating_count": 2,
+            "speed_sum": 7,
+            "service_sum": 9
+        },
+        "kaydend3": {
+            "rating_sum": 1,
+            "rating_count": 1,
+            "speed_sum": 5,
+            "service_sum": 5
+        }
+    }
+}

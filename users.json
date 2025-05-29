@@ -1,0 +1,32 @@
+{
+    "kaydend": {
+        "password": "12345",
+        "phone": "0123456789",
+        "role": "Driver"
+    },
+    "kayden2": {
+        "password": "12345",
+        "phone": "0123456798",
+        "role": "Customer"
+    },
+    "kayden3": {
+        "password": "$2b$12$T7IvyUekauncfeEe7X1EF.N6tukhFyysDDaCgc2x8CBdnGDg2ycq6",
+        "phone": "0123456789",
+        "role": "Customer"
+    },
+    "kaydend2": {
+        "password": "$2b$12$HtJ5m/.s84CiKbXRqapjMempq6D5HegaAl7Qx4vG9O7uvUiBXeAZ2",
+        "phone": "0123456798",
+        "role": "Driver"
+    },
+    "kayden4": {
+        "password": "$2b$12$pvUL4PIRe1jNQIOUFaFN0.VYt7rnoFceFOp1TiS./8/2fNeU/qL86",
+        "phone": "0123456987",
+        "role": "Customer"
+    },
+    "kaydend3": {
+        "password": "$2b$12$lfavqz60CWXx7zCQFKXgO.0EB0DOa5bihWs2Ud4ZDLdi.JkwjX2Nu",
+        "phone": "0123456987",
+        "role": "Driver"
+    }
+}
